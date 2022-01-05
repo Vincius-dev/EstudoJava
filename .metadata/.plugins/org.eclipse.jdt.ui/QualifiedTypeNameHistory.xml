@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sun.rowset.internal.Row"/>
+    <fullyQualifiedTypeName name="boardgame.Position"/>
+    <fullyQualifiedTypeName name="elements.triangle"/>
+    <fullyQualifiedTypeName name="elements.Triangle"/>
+    <fullyQualifiedTypeName name="elementos.Retangulo"/>
+    <fullyQualifiedTypeName name="entities3.Employee"/>
+    <fullyQualifiedTypeName name="entities4.Aluno"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

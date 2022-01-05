@@ -1,0 +1,36 @@
+package entities4;
+
+public class Aluno {
+	
+	public double name;
+	public double n1;
+	public double n2;
+	public double n3;
+	public double finalGrade;
+	
+	public double Grade() {
+		
+		this.finalGrade = n1 + n2 + n3;
+		return finalGrade;
+	}
+	
+	private double MissingPoints() {
+		
+		return 60 - finalGrade;
+	}
+	
+	public void Situation() {
+		
+		if (finalGrade >= 60) {
+			System.out.println("FINAL GRADE: " + finalGrade);
+			System.out.println("PASS");
+		}
+		
+		else {
+			System.out.println("FINAL GRADE: " + finalGrade);
+			System.out.println("FAILED");
+			System.out.println("MISSING " + MissingPoints() + " POINTS");
+		}
+	} 
+
+}

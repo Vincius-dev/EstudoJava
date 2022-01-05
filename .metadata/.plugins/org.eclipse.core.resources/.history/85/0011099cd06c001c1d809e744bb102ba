@@ -1,0 +1,25 @@
+package aplicacao;
+
+import java.util.Scanner;
+
+import elementos.Retangulo;
+
+public class Programa {
+
+	public static void main(String[] args) {
+		
+		Retangulo retangulo;
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Enter rectangle width and height:");
+		
+		retangulo.width = sc.nextDouble();
+		retangulo.height = sc.nextDouble();
+		
+		double = 
+		
+		sc.close();
+	}
+
+}

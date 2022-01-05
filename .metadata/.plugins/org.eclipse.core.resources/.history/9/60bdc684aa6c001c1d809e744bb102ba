@@ -1,0 +1,9 @@
+package elements;
+
+public class triangle {
+	
+	double a;
+	double b;
+	double c;
+
+}

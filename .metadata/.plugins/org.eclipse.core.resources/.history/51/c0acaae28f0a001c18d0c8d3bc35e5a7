@@ -1,0 +1,17 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		int x, y, r;
+		x = 20;
+		y = 3;
+		
+		r = x / y + 20;
+		
+		System.out.println(r);
+		System.out.println("Hellow World");
+
+	}
+
+}

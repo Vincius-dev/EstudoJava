@@ -1,0 +1,26 @@
+package aplication3;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+import entities3.Employee;
+
+public class Program3 {
+
+	public static void main(String[] args) {
+		
+		Employee x;
+		x = new Employee();
+		
+		Locale.setDefault(Locale.US);
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Nome: ");
+		x.name = sc.next
+		
+
+		sc.close();
+	}
+
+}
